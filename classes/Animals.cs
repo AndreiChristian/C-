@@ -9,7 +9,7 @@ namespace ConsoleApp
 
     internal class Animal
     {
-        public string name;
+        private string name;
         public string sound;
         static int numOfAnimals = 0;
 
@@ -32,6 +32,29 @@ namespace ConsoleApp
         {
 
             return numOfAnimals;
+
+        }
+
+        public void SetName(string name)
+        {
+
+            if (!name.Any(char.IsDigit))
+            {
+                this.name = name;
+            }
+            else
+            {
+
+                this.name = "No name";
+                Console.WriteLine("The name must not have any digit");
+            }
+
+        }
+
+        public string GetName()
+        {
+
+            return this.name;
 
         }
 

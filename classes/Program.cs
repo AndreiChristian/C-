@@ -28,35 +28,13 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
 
+            Animal animal = new Animal("dog", "bark");
 
-            Animal animal = new Animal(newName: "Dog", newSound: "Bark");
-            Animal animal2 = new Animal(newName: "Dog", newSound: "Bark");
+            Console.WriteLine(animal.GetName());
 
-            animal2.MakeSound();
+            animal.SetName("doggo");
 
-            animal2.sound = "Woof";
-
-            Animal newanimal = animal2;
-
-            newanimal.sound = "Meow";
-
-            animal2.MakeSound();
-
-            Rectangle rectangle1;
-            rectangle1.length = 100;
-            rectangle1.width = 200;
-
-            double area = rectangle1.Area();
-
-            Rectangle rectangle2 = rectangle1;
-
-            rectangle2.width = 150;
-
-            Console.WriteLine("The width of the rectangle is {0}", rectangle1.width);
-            Console.WriteLine("The width of the rectangle is {0}", rectangle2.width);
-
-            Console.WriteLine("The are of the rectangle is {0}", area);
-
+            Console.WriteLine(animal.GetName());
 
 
         }
