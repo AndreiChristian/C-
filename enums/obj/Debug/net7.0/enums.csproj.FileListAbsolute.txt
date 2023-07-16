@@ -1,0 +1,15 @@
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/bin/Debug/net7.0/enums
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/bin/Debug/net7.0/enums.deps.json
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/bin/Debug/net7.0/enums.runtimeconfig.json
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/bin/Debug/net7.0/enums.dll
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/bin/Debug/net7.0/enums.pdb
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.csproj.AssemblyReference.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.AssemblyInfoInputs.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.AssemblyInfo.cs
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.csproj.CoreCompileInputs.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.dll
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/refint/enums.dll
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.pdb
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/enums.genruntimeconfig.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/enums/obj/Debug/net7.0/ref/enums.dll

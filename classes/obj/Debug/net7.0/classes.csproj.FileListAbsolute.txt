@@ -1,0 +1,15 @@
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/bin/Debug/net7.0/classes
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/bin/Debug/net7.0/classes.deps.json
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/bin/Debug/net7.0/classes.runtimeconfig.json
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/bin/Debug/net7.0/classes.dll
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/bin/Debug/net7.0/classes.pdb
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.csproj.AssemblyReference.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.AssemblyInfoInputs.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.AssemblyInfo.cs
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.csproj.CoreCompileInputs.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.dll
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/refint/classes.dll
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.pdb
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/classes.genruntimeconfig.cache
+/Users/andreichristian/Desktop/LearningDesktop/C#/classes/obj/Debug/net7.0/ref/classes.dll
